@@ -1,0 +1,8 @@
+name: ${PROJECT_NAME}
+version: '0.0.0'
+main: dev.lyzev.spigotPluginTemplate.SpigotPluginTemplate
+api-version: '1.21'
+prefix: ${PROJECT_NAME}@Lyzev
+authors: [ Lyzev ]
+description: A template for developing open-source plugins for the Spigot Minecraft server.
+website: https://lyzev.dev
