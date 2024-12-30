@@ -20,7 +20,7 @@
     <img src="https://img.shields.io/github/contributors/Lyzev/${PROJECT_NAME}" alt="GitHub contributors"/>
     <br><br>
     <a href="https://github.com/Lyzev/${PROJECT_NAME}/actions/workflows/build.yml"><img src="https://github.com/Lyzev/${PROJECT_NAME}/actions/workflows/build.yml/badge.svg" alt="Build"/></a>
-    <a href="https://github.com/Lyzev/${PROJECT_NAME}/actions/workflows/gradle-wrapper-validation.yml"><img src="https://github.com/Lyzev/${PROJECT_NAME}/actions/workflows/gradle-wrapper-validation.yml/badge.svg" alt="Build"/></a>
+    <a href="https://github.com/Lyzev/${PROJECT_NAME}/actions/workflows/gradle-wrapper-validation.yml"><img src="https://github.com/Lyzev/${PROJECT_NAME}/actions/workflows/gradle-wrapper-validation.yml/badge.svg" alt="gradle-wrapper-validation"/></a>
 </div>
 
 ## Table of Contents
